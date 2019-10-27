@@ -6,7 +6,7 @@ namespace TestApka1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helloorld!");
+            Console.WriteLine("Hello world!");
         }
     }
 }
